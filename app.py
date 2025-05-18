@@ -66,3 +66,14 @@ print(course.find("pyt")) ## returns the index of what ur lookin for
 print(course.replace("p", "j"))
 
 print("pro" in course)  ### this will show you whether the letters sre there are not true or false
+
+
+###numbers or integers
+
+print (10 + 3) 
+print (10 - 3)
+print (10 * 3)
+print (10 / 3)    ###division
+print (10 // 3)  ## will give you rounded up to nearest number
+print (10 % 3)  ## 10 divided by 3  = 9 remainder 1
+print (10 ** 3) ## this is like 10 cubed as in 10^3
